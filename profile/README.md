@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="left">¡Hola!👋Bienvenido(a) a la Dev-Community👩‍💻👩‍💻 de @CreoCiudad<br>💙🏙️🏛️⚡</h1>
-
+#![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋+👋;Welcome!)
 <p align="left" style="background-color: #1dc7db; color: #FFFFFF;">Somos una organización juvenil creada en Bogotá D.C. - Colombia.<br>Trabajamos proyectos (labs) intersectoriales en 5 clústers estratégicos:<br>Política | Empresas | Academia | Activismo | Deporte<br>Llevamos a cabo iniciativas de incidencia transformadoras, vinculamos la innovación y el<br>desarrollo digital para lograr soluciones que construyan un mejor futuro para nuestra ciudad.</p>
 
 <p align="left" style="background-color: #1dc7db; color: #FFFFFF;">Corporación CREO CIUDAD | Conócenos: <a href="https://www.creociudad.org/" target="_blank" style="text-decoration: none; color: #FFFFFF;">www.creociudad.org</a>
