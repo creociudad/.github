@@ -1,6 +1,5 @@
 <!-- Header -->
 <h1 align="left">¡Hola!👋Bienvenido(a) a la Dev-Community👩‍💻👩‍💻 de @CreoCiudad<br>💙🏙️🏛️⚡</h1>
-#![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋+👋;Welcome!)
 <p align="left" style="background-color: #1dc7db; color: #FFFFFF;">Somos una organización juvenil creada en Bogotá D.C. - Colombia.<br>Trabajamos proyectos (labs) intersectoriales en 5 clústers estratégicos:<br>Política | Empresas | Academia | Activismo | Deporte<br>Llevamos a cabo iniciativas de incidencia transformadoras, vinculamos la innovación y el<br>desarrollo digital para lograr soluciones que construyan un mejor futuro para nuestra ciudad.</p>
 
 <p align="left" style="background-color: #1dc7db; color: #FFFFFF;">Corporación CREO CIUDAD | Conócenos: <a href="https://www.creociudad.org/" target="_blank" style="text-decoration: none; color: #FFFFFF;">www.creociudad.org</a>
@@ -16,6 +15,38 @@
 - 📫 Cómo contactarme: **[tu-email@example.com]**
 
 ###
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+         "coordinates": [
+            [4.5989, -74.0808],
+            [4.5989, -74.0808],
+            [4.5989, -74.0808],
+            [4.5989, -74.0808],
+            [4.5989, -74.0808]
+          ]
+      }
+    }
+  ]
+}
+
+# Mapa con Coordenadas
+
+![Mapa de Coordenadas](https://maps.googleapis.com/maps/api/staticmap?center=4.5989,-74.0808&zoom=15&size=600x400&markers=color:red%7C4.5989,-74.0808&key=YOUR_API_KEY)
+
+## Coordenadas
+
+- **Latitud:** 4.5989
+- **Longitud:** -74.0808
+
 
 <h2 align="left">En nuestros proyectos usamos:</h2>
 
@@ -92,14 +123,3 @@
   </a>
 </p>
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
