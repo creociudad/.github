@@ -17,12 +17,24 @@ Nuestro objetivo es construir una ciudad más sostenible, eficiente y orientada 
 
 
 
-## ¿Qué hacemos en CREO CIUDAD? 💡
-- **Proyectos de Incidencia Política**: Diseñamos estrategias para influir en políticas públicas y promover cambios a nivel local.
-- **Innovación en Empresas**: Creación de soluciones tecnológicas para fortalecer el ecosistema empresarial de la región.
-- **Educación y Capacitación**: Fomentamos la participación juvenil en el ámbito académico y laboral mediante herramientas digitales.
-- **Activismo Social**: Promovemos la justicia social y derechos humanos en comunidades vulnerables.
-- **Deporte y Bienestar**: Usamos el deporte como un vehículo de integración social y eje para el desarrollo tanto urbano como humano.
+### ¿Qué Hacemos? 🔥
+
+En **Creo Ciudad**, transformamos ideas en acción y problemas en soluciones, trabajando para que cada joven sea parte del proceso de **transformación**. Nos enfocamos en 5 áreas clave para mejorar la calidad de vida urbana y fomentar una gobernanza responsable y moderna:
+
+🚀 **Liderazgo Juvenil Activo**  
+Empoderamos a los jóvenes para que lideren en la política, las empresas, la educación, el activismo y el deporte. Creemos que la juventud es el motor para una **transformación** significativa de la ciudad. Les brindamos las herramientas, el espacio y las alianzas para tomar decisiones que marquen la diferencia.
+
+💡 **Innovación y Soluciones Urbanas**  
+No nos quedamos en la teoría. Producimos soluciones innovadoras que van directo al grano. Creando modelos de gobernanza, proyectos sostenibles y estrategias participativas que **transforman** los espacios urbanos de Bogotá, haciéndola más eficiente, inclusiva y resiliente.
+
+🌍 **Colaboración Estratégica**  
+Nuestra fuerza radica en la colaboración. Unimos a jóvenes líderes, gobiernos, empresas y academia para construir alianzas estratégicas que impacten la ciudad de manera real y tangible. Juntos, generamos sinergias que no solo benefician a los involucrados, sino a toda la comunidad.
+
+🛠️ **Formación y Empoderamiento**  
+Desarrollamos LABs (laboratorios de innovación) que capacitan y acompañan a los jóvenes en su proceso de crecimiento. Les damos las herramientas necesarias para que puedan definir y ejecutar sus propios proyectos, desde lo local hasta lo global.
+
+🔄 **Incidencia y Políticas Públicas**  
+No solo hablamos, **incidimos**. Nuestros proyectos tienen el objetivo de **transformar** las políticas públicas, integrando a los jóvenes en el diseño de propuestas que reflejen sus necesidades y aspiraciones. Queremos que cada acción tenga un impacto duradero.
 
 Conoce más sobre nuestra **misión y visión** en nuestro sitio web: [www.creociudad.org](https://www.creociudad.org).
 
