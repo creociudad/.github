@@ -11,7 +11,7 @@
 ## Sobre nuestros proyectos (labs)
 - 🌱 Actualmente estoy aprendiendo **[nombre de la tecnología o herramienta]**
 - 👯 Estoy buscando colaborar en **[proyecto o tipo de proyecto]**
-- 💬 Qué opinamos **www.creociudad.org/blog**
+- 💬 Qué opinamos <a href="https://creociudad.org/blog" target="_blank">¡Conoce Nuestra Revista!</a>
 - 📫 Cómo contactarme: **contacto@creociudad.org]**
 
 ###
