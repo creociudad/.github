@@ -1,4 +1,4 @@
-# ¡Bienvenido(a) a CREO CIUDAD! 👋💙🏙️🌆✨
+# ¡Bienvenido(a) a CREO CIUDAD! 👋💙🏙️🌆✨  
 Conoce nuestra DevCommunity y construyamos juntos #UnMejorFuturoParaBogotá
 
 ## Sobre nosotros
@@ -14,11 +14,12 @@ Promovemos un modelo de gobernanza del siglo XXI, que implementa innovación dig
 
 Nuestro objetivo es construir una ciudad más sostenible, eficiente y orientada a resultados 🌱✅. Buscamos consolidar modelos de democracia participativa y generar soluciones innovadoras que posicionen a Bogotá como un referente global de buenas prácticas.
 
-**¡Únete a nuestra misión y forma parte de esta transformación!** 🚀
+**¡Únete a nuestra misión y forma parte de esta transformación!** 🚀  
+[¡ÚNETE AHORA!](https://www.creociudad.org/registro)
 
+---
 
-
-### ¿Qué Hacemos? 🔥
+## ¿Qué Hacemos? 🔥
 
 En **Creo Ciudad**, transformamos ideas en acción y problemas en soluciones, trabajando para que cada joven sea parte del proceso de **transformación**. Nos enfocamos en 5 áreas clave para mejorar la calidad de vida urbana y fomentar una gobernanza responsable y moderna:
 
@@ -41,6 +42,13 @@ Conoce más sobre nuestra **misión y visión** en nuestro sitio web: [www.creoc
 
 ---
 
+## Testimonios de Impacto 🌟  
+
+"Gracias a CREO CIUDAD, pude lanzar mi proyecto de innovación juvenil que ha transformado mi comunidad. ¡El apoyo y formación fueron esenciales!"  
+- *Carlos Rodríguez, Líder Juvenil*  
+
+---
+
 ## Proyectos y Repositorios en GitHub 🚀
 
 En **CREO CIUDAD**, utilizamos GitHub para centralizar nuestros proyectos, promover la **colaboración abierta** y fomentar la transparencia. Nuestros repositorios contienen diversas iniciativas que buscan transformar Bogotá y crear un impacto positivo en la ciudad. ¡Explora y contribuye!
@@ -50,10 +58,21 @@ En **CREO CIUDAD**, utilizamos GitHub para centralizar nuestros proyectos, promo
 **Tecnologías**: React, Node.js, MongoDB.  
 **Cómo contribuir**: ¡Tu participación es esencial! Lee nuestras [guías de contribución](https://github.com/creociudad/seguimiento-juvenil/blob/main/CONTRIBUTING.md) para comenzar.
 
+![Plataforma de Seguimiento](https://url-de-imagen.com)  
+
 ### 🏛️ [Sistema de Transparencia en Políticas Públicas](https://github.com/creociudad/transparencia-politicas)  
 **Descripción**: Plataforma digital para promover la transparencia en la formulación de políticas públicas en Bogotá.  
 **Tecnologías**: Next.js, TypeScript, PostgreSQL.  
 **Cómo colaborar**: Si tienes ideas o código que aportar, visita nuestro [repositorio](https://github.com/creociudad/transparencia-politicas) y haz tu primera contribución.
+
+---
+
+## ¿Cómo puedes contribuir? 👨‍💻👩‍💻  
+
+1. **Crea una cuenta en GitHub**  
+2. **Explora nuestros repositorios**  
+3. **Haz tu primer Pull Request**  
+4. **Únete a nuestras sesiones de trabajo colaborativo**  
 
 ---
 
@@ -81,6 +100,13 @@ GitHub es una herramienta fundamental para la gestión y desarrollo de nuestros 
 - **Gestión de proyectos**: Usamos herramientas como issues y pull requests para organizar tareas y optimizar nuestros flujos de trabajo.
 - **Transparencia**: Todo el código de nuestros proyectos está disponible públicamente, lo que invita a la comunidad a colaborar, mejorar y aportar nuevas ideas.
 - **Control de versiones**: Mantener un historial de cambios detallado nos permite revisar, mejorar y retroceder a versiones anteriores si es necesario.
+
+---
+
+## Noticias Recientes 📰  
+
+- **[Nuevo Proyecto en la Comunidad](https://www.creociudad.org/nuevo-proyecto)**: ¡Un proyecto de innovación urbana se está lanzando esta semana!  
+- **[¡Nuestro Evento en Bogotá fue un éxito!](https://www.creociudad.org/evento-exitoso)**: Más de 500 jóvenes participaron en nuestra actividad de liderazgo.
 
 ---
 
