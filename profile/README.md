@@ -1,4 +1,5 @@
 # ¡Bienvenido(a) a CREO CIUDAD! 👋💙🏙️🌆✨
+Conoce nuestra DevCommunity y construyamos juntos #UnMejorFuturoParaBogotá
 
 ## Sobre nosotros
 Somos una organización juvenil en Bogotá, Colombia, comprometida con la transformación de la gobernanza urbana. Trabajamos en proyectos intersectoriales en áreas clave como:
