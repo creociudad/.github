@@ -12,7 +12,7 @@ Somos una organización juvenil en Bogotá, Colombia, comprometida con la transf
 
 Promovemos un modelo de gobernanza del siglo XXI, que implementa innovación digital 💻, participación estratégica 🗣️ y desarrollo del talento humano 👥.
 
-Nuestro objetivo es construir una ciudad más sostenible, eficiente y orientada a resultados 🌱✅. Buscamos modelos de democracia participativa y generar soluciones innovadoras que posicionen a Bogotá como un referente global de buenas prácticas.
+Nuestro objetivo es construir una ciudad más sostenible, eficiente y orientada a resultados 🌱✅. Buscamos consolidar modelos de democracia participativa y generar soluciones innovadoras que posicionen a Bogotá como un referente global de buenas prácticas.
 
 **¡Únete a nuestra misión y forma parte de esta transformación!** 🚀
 
@@ -43,23 +43,23 @@ Conoce más sobre nuestra **misión y visión** en nuestro sitio web: [www.creoc
 
 ## Proyectos y Repositorios en GitHub 🚀
 
-En CREO CIUDAD, estamos utilizando GitHub para centralizar nuestros proyectos y promover la **colaboración abierta**. Aquí encontrarás diversas iniciativas que tienen el potencial de transformar nuestra ciudad:
+En **CREO CIUDAD**, utilizamos GitHub para centralizar nuestros proyectos, promover la **colaboración abierta** y fomentar la transparencia. Nuestros repositorios contienen diversas iniciativas que buscan transformar Bogotá y crear un impacto positivo en la ciudad. ¡Explora y contribuye!
 
-### 📊 [Plataforma de Seguimiento de Iniciativas Juveniles](https://github.com/creociudad/seguimiento-juvenil)
-**Descripción**: Un sistema de gestión de proyectos sociales para monitorear el impacto de las iniciativas juveniles.
-**Tecnologías**: React, Node.js, MongoDB.
-**Cómo contribuir**: ¡Tu ayuda es bienvenida! Lee nuestras [guías de contribución](https://github.com/creociudad/seguimiento-juvenil/blob/main/CONTRIBUTING.md) para comenzar.
+### 📊 [Plataforma de Seguimiento de Iniciativas Juveniles](https://github.com/creociudad/seguimiento-juvenil)  
+**Descripción**: Un sistema de gestión de proyectos sociales diseñado para monitorear y medir el impacto de las iniciativas juveniles.  
+**Tecnologías**: React, Node.js, MongoDB.  
+**Cómo contribuir**: ¡Tu participación es esencial! Lee nuestras [guías de contribución](https://github.com/creociudad/seguimiento-juvenil/blob/main/CONTRIBUTING.md) para comenzar.
 
-### 🏛️ [Sistema de Transparencia en Políticas Públicas](https://github.com/creociudad/transparencia-politicas)
-**Descripción**: Plataforma digital para promover la transparencia en la formulación de políticas públicas en Bogotá.
-**Tecnologías**: Next.js, TypeScript, PostgreSQL.
-**Cómo colaborar**: Si tienes ideas o quieres aportar código, visita nuestro [repositorio](https://github.com/creociudad/transparencia-politicas) y haz tu primera contribución.
+### 🏛️ [Sistema de Transparencia en Políticas Públicas](https://github.com/creociudad/transparencia-politicas)  
+**Descripción**: Plataforma digital para promover la transparencia en la formulación de políticas públicas en Bogotá.  
+**Tecnologías**: Next.js, TypeScript, PostgreSQL.  
+**Cómo colaborar**: Si tienes ideas o código que aportar, visita nuestro [repositorio](https://github.com/creociudad/transparencia-politicas) y haz tu primera contribución.
 
 ---
 
 ## Tecnologías que usamos 💻
 
-En nuestros proyectos, usamos tecnologías punteras para crear soluciones que tengan un impacto real:
+Desarrollamos soluciones innovadoras utilizando tecnologías de vanguardia. Algunas de las principales tecnologías que utilizamos son:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -73,13 +73,14 @@ En nuestros proyectos, usamos tecnologías punteras para crear soluciones que te
 
 ---
 
-## ¿Por qué usas GitHub CREO CIUDAD? 🤔
+## ¿Por qué usamos GitHub en CREO CIUDAD? 🤔
 
-En CREO CIUDAD, GitHub es esencial para:
-- **Colaboración abierta**: Promovemos la participación de todos en el desarrollo de nuestras plataformas y proyectos.
-- **Gestión de proyectos**: Usamos issues y pull requests para organizar tareas y optimizar procesos.
-- **Transparencia**: Todo el código de nuestros proyectos está disponible para la comunidad, invitando a colaboradores a mejorar y aportar ideas.
-- **Control de versiones**: Podemos mantener el historial de cambios y retroceder a versiones anteriores si es necesario.
+GitHub es una herramienta fundamental para la gestión y desarrollo de nuestros proyectos. En **CREO CIUDAD**, lo usamos para:
+
+- **Colaboración abierta**: Fomentamos la participación activa de la comunidad en el desarrollo de nuestras plataformas y proyectos.
+- **Gestión de proyectos**: Usamos herramientas como issues y pull requests para organizar tareas y optimizar nuestros flujos de trabajo.
+- **Transparencia**: Todo el código de nuestros proyectos está disponible públicamente, lo que invita a la comunidad a colaborar, mejorar y aportar nuevas ideas.
+- **Control de versiones**: Mantener un historial de cambios detallado nos permite revisar, mejorar y retroceder a versiones anteriores si es necesario.
 
 ---
 
