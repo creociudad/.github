@@ -1,7 +1,8 @@
-# ¡Bienvenidos a CREO CIUDAD! 👋💙🏙️
+# ¡Bienvenido(a) a CREO CIUDAD! 👋💙🏙️
 
 ## Sobre nosotros
-Somos una **organización juvenil** con sede en Bogotá, Colombia, que trabaja en proyectos **intersectoriales** en áreas clave como política, empresas, academia, activismo y deporte. Nuestro objetivo es generar **impacto social** a través de la **innovación digital** y el **desarrollo comunitario**. ¡Únete a nuestra misión de construir un futuro más próspero y justo para nuestra ciudad!
+Somos una organización juvenil en Bogotá, Colombia, dedicada a la transformación de la gobernanza urbana mediante proyectos intersectoriales en áreas como política, empresas, academia, activismo y deporte. Promovemos un modelo de gobernanza del siglo XXI, fundamentado en la innovación digital, la participación estratégica y el desarrollo del talento humano, con el objetivo de construir una ciudad más sostenible, eficiente y orientada a resultados. ¡Únete a nuestra causa y forma parte de esta transformación!
+
 
 ## ¿Qué hacemos en CREO CIUDAD? 💡
 - **Proyectos de Incidencia Política**: Diseñamos estrategias para influir en políticas públicas y promover cambios a nivel local.
