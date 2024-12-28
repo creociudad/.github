@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="left">¡Hola!👋Bienvenido(a) a la Dev-Community👩‍💻👩‍💻<br>de @CreoCiudad<br>💙🏙️🏛️⚡</h1>
-<p align="left" style="background-color: #1dc7db; color: #FFFFFF;">Somos una organización juvenil creada en Bogotá D.C. - Colombia.<br>Trabajamos proyectos (labs) intersectoriales en 5 clústers estratégicos:<br><br>-🏛️Política<br>-📊Empresas<br>-📚Academia<br>-✊Activismo<br>-🏆Deporte<br><br>Llevamos a cabo iniciativas de incidencia, vinculamos la innovación y el desarrollo<br>digital para lograr soluciones que construyan un mejor futuro para nuestra ciudad.</p>
+<p align="left" style="background-color: #1dc7db; color: #FFFFFF;">Somos una organización juvenil creada en Bogotá D.C. - Colombia.<br>Trabajamos proyectos (labs) intersectoriales en 5 clústers estratégicos:<br><br>-🏛️Política<br>-📊Empresas<br>-📚Academia<br>-✊Activismo<br>-🏆Deporte<br><br>Llevamos a cabo iniciativas de incidencia política en Bogotá, además vinculamos la innovación y el desarrollo<br>digital para lograr soluciones que construyan un mejor futuro para nuestra ciudad.</p>
 
 <p align="left" style="background-color: #1dc7db; color: #FFFFFF;">Corporación CREO CIUDAD | Conócenos: <a href="https://www.creociudad.org/" target="_blank" style="text-decoration: none; color: #FFFFFF;">www.creociudad.org</a>
 </p>
@@ -11,8 +11,8 @@
 ## Sobre nuestros proyectos (labs)
 - 🌱 Actualmente estoy aprendiendo **[nombre de la tecnología o herramienta]**
 - 👯 Estoy buscando colaborar en **[proyecto o tipo de proyecto]**
-- 💬 Pregúntame sobre **[tema de tu experiencia]**
-- 📫 Cómo contactarme: **[tu-email@example.com]**
+- 💬 Qué opinamos **www.creociudad.org/blog**
+- 📫 Cómo contactarme: **contacto@creociudad.org]**
 
 ###
 {
