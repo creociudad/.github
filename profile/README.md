@@ -8,7 +8,7 @@ Somos una **organización juvenil** con sede en Bogotá, Colombia, que trabaja e
 - **Innovación en Empresas**: Creación de soluciones tecnológicas para fortalecer el ecosistema empresarial de la región.
 - **Educación y Capacitación**: Fomentamos la participación juvenil en el ámbito académico y laboral mediante herramientas digitales.
 - **Activismo Social**: Promovemos la justicia social y derechos humanos en comunidades vulnerables.
-- **Deporte y Bienestar**: Usamos el deporte como un vehículo de integración social y desarrollo personal.
+- **Deporte y Bienestar**: Usamos el deporte como un vehículo de integración social y eje para el desarrollo tanto urbano como humano.
 
 Conoce más sobre nuestra **misión y visión** en nuestro sitio web: [www.creociudad.org](https://www.creociudad.org).
 
